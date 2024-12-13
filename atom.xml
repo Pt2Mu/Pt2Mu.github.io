@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>假装看风景</title>
+  
+  <subtitle>假装错过你</subtitle>
+  <link href="https://pt2mu.top/atom.xml" rel="self"/>
+  
+  <link href="https://pt2mu.top/"/>
+  <updated>2024-12-13T02:16:00.464Z</updated>
+  <id>https://pt2mu.top/</id>
+  
+  <author>
+    <name>P2tMu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>域名重新定向</title>
+    <link href="https://pt2mu.top/Post/settingCNAME/"/>
+    <id>https://pt2mu.top/Post/settingCNAME/</id>
+    <published>2024-12-13T01:58:14.000Z</published>
+    <updated>2024-12-13T02:16:00.464Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客的域名重新定向真难受，CNAME文件必须得好好保存</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客的域名重新定向真难受，CNAME文件必须得好好保存&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="Blog历程" scheme="https://pt2mu.top/tags/Blog%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lucky-day</title>
+    <link href="https://pt2mu.top/Post/lucky-day/"/>
+    <id>https://pt2mu.top/Post/lucky-day/</id>
+    <published>2024-12-13T01:14:55.000Z</published>
+    <updated>2024-12-13T01:24:44.796Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Lucky-Day！"><a href="#Lucky-Day！" class="headerlink" title="Lucky Day！"></a>Lucky Day！</h1><p>运气真好，还好来得早，查岗拍照时我在</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Lucky-Day！&quot;&gt;&lt;a href=&quot;#Lucky-Day！&quot; class=&quot;headerlink&quot; title=&quot;Lucky Day！&quot;&gt;&lt;/a&gt;Lucky Day！&lt;/h1&gt;&lt;p&gt;运气真好，还好来得早，查岗拍照时我在&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown语法备份</title>
+    <link href="https://pt2mu.top/Post/markdown/"/>
+    <id>https://pt2mu.top/Post/markdown/</id>
+    <published>2024-12-12T11:22:32.000Z</published>
+    <updated>2024-12-12T11:24:43.276Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p><strong>加粗文本</strong><br><em>斜体文本</em><br><em><strong>加粗且斜体文本</strong></em></p><ul><li>项目 1</li><li>项目 2<ul><li>子项目 2.1</li><li>子项目 2.2</li></ul></li></ul><ol><li>项目 1</li><li>项目 2<ol><li>子项目 2.1</li><li>子项目 2.2</li></ol></li></ol><p><a href="https://example.com/">链接文本</a></p><blockquote><p>这是一个引用。</p><blockquote><p>这是一个嵌套引用。</p></blockquote></blockquote><p>这是一个 <code>行内代码</code> 示例。</p><p>这是一个多行代码块。<br>print(“Hello, Markdown!”)</p><table><thead><tr><th>列 1</th><th>列 2</th><th>列 3</th></tr></thead><tbody><tr><td>数据1</td><td>数据2</td><td>数据3</td></tr><tr><td>数据4</td><td>数据5</td><td>数据6</td></tr></tbody></table><hr><ul><li><input checked="" disabled="" type="checkbox"> 已完成任务</li><li><input disabled="" type="checkbox"> 未完成任务</li></ul><p>*星号转义*</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>完善博客（添加了分类和标签）</title>
+    <link href="https://pt2mu.top/Post/2024-12-12/"/>
+    <id>https://pt2mu.top/Post/2024-12-12/</id>
+    <published>2024-12-12T11:10:39.000Z</published>
+    <updated>2024-12-12T11:16:49.551Z</updated>
+    
+    <content type="html"><![CDATA[<p>每天看似时间很多，但是为了生活的苟且不得不低头，搭建博客只能有空一点一点的弄<br>今天添加了分类和标签</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;每天看似时间很多，但是为了生活的苟且不得不低头，搭建博客只能有空一点一点的弄&lt;br&gt;今天添加了分类和标签&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Blog</title>
+    <link href="https://pt2mu.top/Post/my-first-blog/"/>
+    <id>https://pt2mu.top/Post/my-first-blog/</id>
+    <published>2024-12-11T12:29:19.000Z</published>
+    <updated>2024-12-12T11:12:41.657Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一个博客</p><p><img src="/my-first-blog/hello_world.png" alt="我的第一个博客"></p><p>2024-12-11<br>南瑞路<br>科研楼18楼</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是我的第一个博客&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/my-first-blog/hello_world.png&quot; alt=&quot;我的第一个博客&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2024-12-11&lt;br&gt;南瑞路&lt;br&gt;科研楼18楼&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>

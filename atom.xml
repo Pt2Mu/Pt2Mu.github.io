@@ -6,7 +6,7 @@
   <link href="https://pt2mu.top/atom.xml" rel="self"/>
   
   <link href="https://pt2mu.top/"/>
-  <updated>2024-12-15T12:13:56.303Z</updated>
+  <updated>2024-12-17T10:53:04.948Z</updated>
   <id>https://pt2mu.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-Musicolet</title>
+    <link href="https://pt2mu.top/Post/2024-music/"/>
+    <id>https://pt2mu.top/Post/2024-music/</id>
+    <published>2024-12-17T10:49:50.000Z</published>
+    <updated>2024-12-17T10:53:04.948Z</updated>
+    
+    <content type="html"><![CDATA[<p>2024快过去了啊！<br><img src="/pic/2024music.jpg" alt="2024-music"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2024快过去了啊！&lt;br&gt;&lt;img src=&quot;/pic/2024music.jpg&quot; alt=&quot;2024-music&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>待办-但愿能办</title>
@@ -195,15 +220,15 @@
     <link href="https://pt2mu.top/Post/my-first-blog/"/>
     <id>https://pt2mu.top/Post/my-first-blog/</id>
     <published>2024-12-11T12:29:19.000Z</published>
-    <updated>2024-12-12T11:12:41.657Z</updated>
+    <updated>2024-12-17T10:50:44.602Z</updated>
     
-    <content type="html"><![CDATA[<p>这是我的第一个博客</p><p><img src="/my-first-blog/hello_world.png" alt="我的第一个博客"></p><p>2024-12-11<br>南瑞路<br>科研楼18楼</p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一个博客</p><p><img src="/pic/hello_world.png" alt="我的第一个博客"></p><p>2024-12-11<br>南瑞路<br>科研楼18楼</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;这是我的第一个博客&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/my-first-blog/hello_world.png&quot; alt=&quot;我的第一个博客&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/pic/hello_world.png&quot; alt=&quot;我的第一个博客&quot;&gt;&lt;/p&gt;
 &lt;p&gt;2024-12-11&lt;br&gt;南瑞路&lt;br&gt;科研楼18楼&lt;/p&gt;
 </summary>
       

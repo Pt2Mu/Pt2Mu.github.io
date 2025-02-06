@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #958e28;
+  background: #d4c80b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2607,4 +2607,22 @@ ul.breadcrumb li + li:last-child {
   background-repeat: no-repeat;
   height: 0.8rem;
   width: 1rem;
+}
+body {
+  background-image: url("/pic/beijing.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.content-wrap {
+  opacity: 0.75;
+}
+​,
+.sidebar {
+  background-color: transparent;
+  opacity: 0.8;
+}
+​,
+.header-inner {
+  background: rgba(255,255,255,0.8);
 }

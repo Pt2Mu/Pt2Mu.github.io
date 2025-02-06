@@ -6,7 +6,7 @@
   <link href="https://pt2mu.top/atom.xml" rel="self"/>
   
   <link href="https://pt2mu.top/"/>
-  <updated>2025-02-05T15:48:43.122Z</updated>
+  <updated>2025-02-06T05:36:02.061Z</updated>
   <id>https://pt2mu.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>修改背景添加音乐</title>
+    <link href="https://pt2mu.top/Post/%E4%BF%AE%E6%94%B9%E8%83%8C%E6%99%AF%E6%B7%BB%E5%8A%A0%E9%9F%B3%E4%B9%90/"/>
+    <id>https://pt2mu.top/Post/%E4%BF%AE%E6%94%B9%E8%83%8C%E6%99%AF%E6%B7%BB%E5%8A%A0%E9%9F%B3%E4%B9%90/</id>
+    <published>2025-02-06T05:34:11.000Z</published>
+    <updated>2025-02-06T05:36:02.061Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天添加了博客的背景音乐，修改了一下透明的，之后添加了网易云音乐的外链，站点慢慢走上正轨，只不过手机上看起来有点怪，不管了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天添加了博客的背景音乐，修改了一下透明的，之后添加了网易云音乐的外链，站点慢慢走上正轨，只不过手机上看起来有点怪，不管了。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>更换图床</title>
@@ -481,33 +506,6 @@
     
     
     
-    
-    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>完善博客（添加了分类和标签）</title>
-    <link href="https://pt2mu.top/Post/2024-12-12/"/>
-    <id>https://pt2mu.top/Post/2024-12-12/</id>
-    <published>2024-12-12T11:10:39.000Z</published>
-    <updated>2024-12-12T11:16:49.551Z</updated>
-    
-    <content type="html"><![CDATA[<p>每天看似时间很多，但是为了生活的苟且不得不低头，搭建博客只能有空一点一点的弄<br>今天添加了分类和标签</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;每天看似时间很多，但是为了生活的苟且不得不低头，搭建博客只能有空一点一点的弄&lt;br&gt;今天添加了分类和标签&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
     
     <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
     

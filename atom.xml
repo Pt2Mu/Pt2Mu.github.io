@@ -6,7 +6,7 @@
   <link href="https://pt2mu.top/atom.xml" rel="self"/>
   
   <link href="https://pt2mu.top/"/>
-  <updated>2025-02-10T12:33:53.479Z</updated>
+  <updated>2025-02-11T14:10:20.434Z</updated>
   <id>https://pt2mu.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>失败的人生</title>
+    <link href="https://pt2mu.top/Post/%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%BA%E7%94%9F/"/>
+    <id>https://pt2mu.top/Post/%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%BA%E7%94%9F/</id>
+    <published>2025-02-11T14:08:48.000Z</published>
+    <updated>2025-02-11T14:10:20.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天晚上IOTJ的拒稿重投下来了，直接崩溃，突然发现人生太失败了，无论哪个方面，自从上了研究生，就没有顺过！老天你再多看我一眼吧！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天晚上IOTJ的拒稿重投下来了，直接崩溃，突然发现人生太失败了，无论哪个方面，自从上了研究生，就没有顺过！老天你再多看我一眼吧！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Bye</title>
@@ -485,33 +510,6 @@
     
     
     <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>域名重新定向</title>
-    <link href="https://pt2mu.top/Post/settingCNAME/"/>
-    <id>https://pt2mu.top/Post/settingCNAME/</id>
-    <published>2024-12-13T01:58:14.000Z</published>
-    <updated>2024-12-15T05:13:04.509Z</updated>
-    
-    <content type="html"><![CDATA[<p>博客的域名重新定向真难受，CNAME文件必须得好好保存</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;博客的域名重新定向真难受，CNAME文件必须得好好保存&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="生活" scheme="https://pt2mu.top/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
     
   </entry>
   

@@ -6,7 +6,7 @@
   <link href="https://pt2mu.top/atom.xml" rel="self"/>
   
   <link href="https://pt2mu.top/"/>
-  <updated>2025-03-19T14:01:16.284Z</updated>
+  <updated>2025-03-20T13:57:18.767Z</updated>
   <id>https://pt2mu.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小孟定</title>
+    <link href="https://pt2mu.top/Post/%E5%B0%8F%E5%AD%9F%E5%AE%9A/"/>
+    <id>https://pt2mu.top/Post/%E5%B0%8F%E5%AD%9F%E5%AE%9A/</id>
+    <published>2025-03-20T13:53:09.000Z</published>
+    <updated>2025-03-20T13:57:18.767Z</updated>
+    
+    <content type="html"><![CDATA[<p>宇的爸爸给我起了一个外号“小孟定”，笑死，第一次听到的时候尴尬到脚趾头都能扣出三室一厅</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;宇的爸爸给我起了一个外号“小孟定”，笑死，第一次听到的时候尴尬到脚趾头都能扣出三室一厅&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="那年那人那些事" scheme="https://pt2mu.top/categories/%E9%82%A3%E5%B9%B4%E9%82%A3%E4%BA%BA%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+    
+    <category term="那年那人那些事" scheme="https://pt2mu.top/tags/%E9%82%A3%E5%B9%B4%E9%82%A3%E4%BA%BA%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>笑死</title>
@@ -475,30 +500,6 @@
       
     <summary type="html">&lt;p&gt;今天添加了博客的背景音乐，修改了一下透明的，之后添加了网易云音乐的外链，站点慢慢走上正轨，只不过手机上看起来有点怪，不管了。&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    <category term="生活" scheme="https://pt2mu.top/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="Blog搭建历程" scheme="https://pt2mu.top/tags/Blog%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>更换图床</title>
-    <link href="https://pt2mu.top/Post/%E6%9B%B4%E6%8D%A2%E5%9B%BE%E5%BA%8A/"/>
-    <id>https://pt2mu.top/Post/%E6%9B%B4%E6%8D%A2%E5%9B%BE%E5%BA%8A/</id>
-    <published>2025-02-05T15:33:57.000Z</published>
-    <updated>2025-02-05T15:48:43.122Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天看到几个站点照片被盗刷的帖子，一夜就被盗刷50G又或者1.7T，最后欠费一堆变成一个纯纯的大冤种，吓得我连忙看了看我的阿里云oss，之前图方便想着直接用hexo部署图片每次部署的时候都要花大量的时间还不如搞个阿里云的图床，这样不仅快而且还方便。现在直接把阿里云的oss给设置成私有。然后转过头来继续使用hexo部署。但是修改那些md文件的发现，我之前使用oss是通过PicGo上传然后用链接直接访问，那为什么我不直接丢在git上然后直接读链接呢？虽然hexo也是托管在git上，但是调用链接和每次都把所有的图片部署一遍的时间是完全不一样的，最后当然是我憨出出的又把md文件全修改一遍，弄了之后发现git链接弄出来全是裂图，然后又回到最开始的地方，继续使用hexo部署图片，好在我现在站点博文不多，图片也少，记录一下憨包的一天。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天看到几个站点照片被盗刷的帖子，一夜就被盗刷50G又或者1.7T，最后欠费一堆变成一个纯纯的大冤种，吓得我连忙看了看我的阿里云oss，之前图方便想着直接用hexo部署图片每次部署的时候都要花大量的时间还不如搞个阿里云的图床，这样不仅快而且还方便。现在直接把阿里云的oss给</summary>
       
     
     
